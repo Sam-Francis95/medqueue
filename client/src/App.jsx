@@ -9,6 +9,7 @@ import Appointments from './pages/Appointments';
 import Analytics from './pages/Analytics';
 import PatientPortal from './pages/PatientPortal';
 import PatientTracking from './pages/PatientTracking';
+import SplitView from './pages/SplitView';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         <Route path="/print/:token" element={<PrintSlip />} />
         <Route path="/portal" element={<PatientPortal />} />
         <Route path="/status/:id" element={<PatientTracking />} />
+        <Route path="/split" element={<SplitView />} />
       </Routes>
     </Router>
   );
