@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #eff6ff;
+  --color-brand-100: #dbeafe;
+  --color-brand-500: #3b82f6;
+  --color-brand-600: #2563eb;
+  --color-brand-700: #1d4ed8;
+  
+  --color-success-50: #f0fdf4;
+  --color-success-600: #16a34a;
+  
+  --color-warning-50: #fffbeb;
+  --color-warning-600: #d97706;
+  
+  --color-danger-50: #fef2f2;
+  --color-danger-600: #dc2626;
+  
+  --color-bg-app: #f9fafb;
+  --color-surface: #ffffff;
+}
+
+body {
+  background-color: var(--color-bg-app);
+  color: #111827;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Scrollbar for sleekness */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #e5e7eb;
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #d1d5db;
+}
+
+/* Simple animation */
+@keyframes flash {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; color: var(--color-brand-600); }
+  100% { opacity: 1; }
+}
+
+.animate-flash {
+  animation: flash 1s ease-in-out 2;
+}

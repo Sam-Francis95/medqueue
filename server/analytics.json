@@ -1,0 +1,496 @@
+[
+  {
+    "date": "2026-05-25",
+    "timestamp": 1779714608056,
+    "patientsSeen": 21,
+    "patientsSkipped": 1,
+    "averageConsultation": 11,
+    "totalBreakTime": 1828,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-05-26",
+    "timestamp": 1779801008056,
+    "patientsSeen": 32,
+    "patientsSkipped": 2,
+    "averageConsultation": 10.9,
+    "totalBreakTime": 1867,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 4,
+      "11": 6,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 4,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-05-27",
+    "timestamp": 1779887408056,
+    "patientsSeen": 23,
+    "patientsSkipped": 0,
+    "averageConsultation": 8.3,
+    "totalBreakTime": 2040,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-05-28",
+    "timestamp": 1779973808056,
+    "patientsSeen": 34,
+    "patientsSkipped": 1,
+    "averageConsultation": 8.8,
+    "totalBreakTime": 2293,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 5,
+      "11": 6,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 5,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-05-29",
+    "timestamp": 1780060208056,
+    "patientsSeen": 39,
+    "patientsSkipped": 2,
+    "averageConsultation": 10.3,
+    "totalBreakTime": 2984,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 5,
+      "11": 7,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 5,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-05-30",
+    "timestamp": 1780146608056,
+    "patientsSeen": 24,
+    "patientsSkipped": 2,
+    "averageConsultation": 10.7,
+    "totalBreakTime": 3247,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-01",
+    "timestamp": 1780319408056,
+    "patientsSeen": 29,
+    "patientsSkipped": 1,
+    "averageConsultation": 10.6,
+    "totalBreakTime": 1981,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 4,
+      "11": 5,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 4,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-02",
+    "timestamp": 1780405808056,
+    "patientsSeen": 25,
+    "patientsSkipped": 0,
+    "averageConsultation": 9.6,
+    "totalBreakTime": 2356,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 5,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-03",
+    "timestamp": 1780492208056,
+    "patientsSeen": 25,
+    "patientsSkipped": 1,
+    "averageConsultation": 11.8,
+    "totalBreakTime": 2187,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 5,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-04",
+    "timestamp": 1780578608056,
+    "patientsSeen": 38,
+    "patientsSkipped": 2,
+    "averageConsultation": 9.1,
+    "totalBreakTime": 1879,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 5,
+      "11": 7,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 5,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-05",
+    "timestamp": 1780665008056,
+    "patientsSeen": 36,
+    "patientsSkipped": 2,
+    "averageConsultation": 10.6,
+    "totalBreakTime": 2121,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 5,
+      "11": 7,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 5,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-06",
+    "timestamp": 1780751408056,
+    "patientsSeen": 26,
+    "patientsSkipped": 1,
+    "averageConsultation": 8.7,
+    "totalBreakTime": 2895,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 5,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "timestamp": 1780924208056,
+    "patientsSeen": 31,
+    "patientsSkipped": 1,
+    "averageConsultation": 10.1,
+    "totalBreakTime": 3033,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 4,
+      "11": 6,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 4,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-09",
+    "timestamp": 1781010608056,
+    "patientsSeen": 22,
+    "patientsSkipped": 0,
+    "averageConsultation": 8.8,
+    "totalBreakTime": 2111,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-10",
+    "timestamp": 1781097008056,
+    "patientsSeen": 38,
+    "patientsSkipped": 0,
+    "averageConsultation": 9.5,
+    "totalBreakTime": 3135,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 5,
+      "11": 7,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 5,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-11",
+    "timestamp": 1781183408056,
+    "patientsSeen": 23,
+    "patientsSkipped": 0,
+    "averageConsultation": 10,
+    "totalBreakTime": 1943,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-12",
+    "timestamp": 1781269808056,
+    "patientsSeen": 38,
+    "patientsSkipped": 1,
+    "averageConsultation": 8.3,
+    "totalBreakTime": 2032,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 5,
+      "11": 7,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 5,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-13",
+    "timestamp": 1781356208056,
+    "patientsSeen": 23,
+    "patientsSkipped": 2,
+    "averageConsultation": 8.5,
+    "totalBreakTime": 3189,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-15",
+    "timestamp": 1781529008056,
+    "patientsSeen": 29,
+    "patientsSkipped": 2,
+    "averageConsultation": 8.6,
+    "totalBreakTime": 2734,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 4,
+      "11": 5,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 4,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-16",
+    "timestamp": 1781615408056,
+    "patientsSeen": 23,
+    "patientsSkipped": 1,
+    "averageConsultation": 8.1,
+    "totalBreakTime": 2485,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-17",
+    "timestamp": 1781701808056,
+    "patientsSeen": 27,
+    "patientsSkipped": 1,
+    "averageConsultation": 10.5,
+    "totalBreakTime": 2533,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 4,
+      "11": 5,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 4,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-18",
+    "timestamp": 1781788208056,
+    "patientsSeen": 26,
+    "patientsSkipped": 2,
+    "averageConsultation": 11.5,
+    "totalBreakTime": 2241,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 5,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-19",
+    "timestamp": 1781874608056,
+    "patientsSeen": 24,
+    "patientsSkipped": 1,
+    "averageConsultation": 10.9,
+    "totalBreakTime": 3535,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-20",
+    "timestamp": 1781961008056,
+    "patientsSeen": 33,
+    "patientsSkipped": 1,
+    "averageConsultation": 8.7,
+    "totalBreakTime": 3423,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 4,
+      "11": 6,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 4,
+      "16": 3,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-22",
+    "timestamp": 1782133808056,
+    "patientsSeen": 20,
+    "patientsSkipped": 0,
+    "averageConsultation": 8.6,
+    "totalBreakTime": 2770,
+    "consultationsPerHour": {
+      "9": 2,
+      "10": 3,
+      "11": 4,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 1
+    }
+  },
+  {
+    "date": "2026-06-23",
+    "timestamp": 1782220208056,
+    "patientsSeen": 31,
+    "patientsSkipped": 2,
+    "averageConsultation": 10.6,
+    "totalBreakTime": 2835,
+    "consultationsPerHour": {
+      "9": 3,
+      "10": 4,
+      "11": 6,
+      "12": 3,
+      "13": 1,
+      "14": 3,
+      "15": 4,
+      "16": 3,
+      "17": 1
+    }
+  }
+]
